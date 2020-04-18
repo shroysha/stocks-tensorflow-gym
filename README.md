@@ -1,4 +1,4 @@
-# openaigym-stocks
+# stocks-tensorflow-gym
 
 ## Description
 null
