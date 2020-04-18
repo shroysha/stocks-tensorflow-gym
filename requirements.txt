@@ -1,0 +1,2 @@
+googlefinance~=0.7
+setuptools~=46.1.1
